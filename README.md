@@ -1,5 +1,4 @@
-#Login Credentials 
-username: "guest01"  password: "1234"
+#Login Credentials => username: "guest01"  password: "1234"
 
 # Getting Started with Create React App
 
